@@ -33,11 +33,6 @@ and recall
 
 ----------------------------------------------------------------------------------------------------------------
 
-### ✨ Thanks to all the Contributers ✨.
-
-<a href="https://github.com/nitinsaimajji/gender-recog-voice/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=nitinsaimajji/gender-recog-voice" />
-</a>
 
 
 
