@@ -25,15 +25,4 @@ and recall
 
 #### Finally ,Deep learning models such as MLP,CNN,AlexNet,VGGNet-16 have been trained with the dataset.
 
------------------------------------------------------------------------------------------------------------
-
-### Results :
-
-![image](https://user-images.githubusercontent.com/91651103/225902858-bae60ed1-ac5c-4f4e-88fa-14cc85907021.png)
-
-----------------------------------------------------------------------------------------------------------------
-
-
-
-
  
